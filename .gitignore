@@ -1,0 +1,10 @@
+#build folder 
+output/    
+
+#venv folder
+venv/
+
+#ffmpeg binaries
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
